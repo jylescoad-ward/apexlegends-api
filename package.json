@@ -1,0 +1,19 @@
+{
+  "name": "apexlegends-api",
+  "version": "1.0.3",
+  "description": "A Apex Legends API Wrapper for https://apexlegendsapi.com/",
+  "main": "classes/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jylescoad-ward/apexlegends-api.git"
+  },
+  "author": "Jyles Coad-Ward [jyles@dariox.club]",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/jylescoad-ward/apexlegends-api/issues"
+  },
+  "homepage": "https://github.com/jylescoad-ward/apexlegends-api#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
